@@ -1,0 +1,16 @@
+
+print("Valable pour les coulissants Technal")
+print("Choix 1: 2 rails, 2 vantaux, vantail extérieur à gauche")
+print("Choix 2: 2 rails, 2 vantaux, vantail extérieur à droite")
+print("----------------------------------------------------------------")
+print("Choix 3: 2 rails, 3 vantaux dépendants, vantail extérieur à gauche")
+print("Choix 4: 2 rails, 3 vantaux dépendants, vantail extérieur à droite")
+print("----------------------------------------------------------------")
+print("Choix 5: 2 rails, 3 vantaux indépendants, vantail extérieur au milieu")
+print("----------------------------------------------------------------")
+print("Choix 6: 3 rails, 3 vantaux, vantail extérieur à gauche")
+print("Choix 7: 3 rails, 3 vantaux, vantail extérieur à droite")
+print("----------------------------------------------------------------")
+# Données de départ
+choix = int(input("Choisir le type de coulissant : "))
+L = int(input("Indiquer la longueur de la Traverse: "))
